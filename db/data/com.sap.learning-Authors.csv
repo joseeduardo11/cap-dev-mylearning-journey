@@ -1,0 +1,11 @@
+ID,name,dateOfBirth,dateOfDeath,epoch_ID
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c1,Jane Austen,1775-12-16,1817-07-18,160
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c2,George Orwell,1903-06-25,1950-01-21,200
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c3,J.K. Rowling,1965-07-31,,220
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c4,Stephen King,1947-09-21,,220
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c5,Agatha Christie,1890-09-15,1976-01-12,200
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c6,Ernest Hemingway,1899-07-21,1961-07-02,200
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c7,Maya Angelou,1928-04-04,2014-05-28,210
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c8,Haruki Murakami,1949-01-12,,210
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c9,Toni Morrison,1931-02-18,2019-08-05,210
+201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5ca,Mark Twain,1835-11-30,1910-04-21,170

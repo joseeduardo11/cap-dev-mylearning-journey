@@ -1,0 +1,22 @@
+ID,title,author_ID,genre,publCountry_code,stock,price_amount,price_currency_code,isHardcover
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c1,Pride and Prejudice,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c1,1,GB,156,12.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c2,Sense and Sensibility,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c1,1,GB,89,11.99,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c3,1984,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c2,1,GB,247,14.50,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c4,Animal Farm,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c2,1,GB,134,9.99,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c5,Harry Potter and the Philosopher's Stone,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c3,1,GB,312,15.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c6,Harry Potter and the Chamber of Secrets,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c3,1,GB,278,16.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c7,Harry Potter and the Prisoner of Azkaban,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c3,1,GB,201,17.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c8,The Shining,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c4,1,US,67,13.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c9,IT,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c4,1,US,43,17.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5ca,Carrie,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c4,1,US,78,12.50,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5cb,Murder on the Orient Express,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c5,1,GB,92,11.99,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5cc,The Murder of Roger Ackroyd,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c5,1,GB,154,13.50,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5cd,The Sun Also Rises,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c6,1,US,56,14.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5ce,A Farewell to Arms,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c6,1,US,123,13.75,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5cf,I Know Why the Caged Bird Sings,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c7,2,US,167,12.50,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5d0,Norwegian Wood,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c8,1,JP,34,16.50,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5d1,Kafka on the Shore,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c8,1,JP,72,18.99,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5d2,Beloved,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c9,1,US,189,15.50,USD,true
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5d3,The Bluest Eye,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5c9,1,US,98,14.25,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5d4,The Adventures of Tom Sawyer,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5ca,1,US,265,10.99,USD,false
+301ee5c2-8a46-4d8e-8e5c-8a46d8e8e5d5,The Adventures of Huckleberry Finn,201ee5c2-8a46-4d8e-8e5c-8a46d8e8e5ca,1,US,223,11.99,USD,true

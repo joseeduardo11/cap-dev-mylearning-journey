@@ -1,0 +1,9 @@
+{
+    "actions": [
+        {
+            "id": "openReadmeFile",
+            "actionType": "FILE",
+            "uri": "file:///c:/Users/ZEPIJ/Git/CAP%20Projects/cap-dev-mylearning-journey/.gen/generation.log"
+        }
+    ]
+}
